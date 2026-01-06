@@ -1,4 +1,4 @@
-package operator.ex;
+package cond;
 
 public class Switch4 {
     // 자바 14의 새로운 switch

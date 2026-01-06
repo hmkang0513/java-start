@@ -1,4 +1,4 @@
-package operator.ex;
+package cond;
 
 public class CondOp2 {
     public static void main(String[] args) {
