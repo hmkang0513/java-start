@@ -28,7 +28,7 @@ public class ArrayEx7 {
             for(int j =0; j<score[i].length; j++){
                 sum += score[i][j];
             }
-            average =  sum/score[i].length;
+            average =  (double)sum/score[i].length;
             System.out.println((i+1)+"번 학생의 점수 총점은 " + sum +"입니다.");
             System.out.println((i+1)+"번 학생의 점수 평균은 " + average + "입니다.");
             sum = 0;
